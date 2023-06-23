@@ -13,7 +13,7 @@ function carregar() {
         fundo.style.backgroundImage = "url('imgs/fundo-manha.png')"
 
         p.style.color = '#0f1412'
-        txt.style.color = '#0f1412'
+        txt.style.color = 'white'
         txt.innerHTML = `<strong>AGORA SÃO ${hora} HORAS</strong> <br><br><strong>Hora do cafezinhoo..</strong><br><br> Esta manhã, antes do 
         alvorecer,
         subi numa colina para admirar o céu   
@@ -59,7 +59,7 @@ function ok(){
         fundo.style.backgroundImage = "url('imgs/fundo-manha.png')"
 
         p.style.color = '#0f1412'
-        txt.style.color = '#0f1412'
+        txt.style.color = 'white'
         txt.innerHTML = `<strong>AGORA SÃO ${valor} HORAS</strong> <br><br><strong>Hora do cafezinhoo..</strong><br><br> Esta manhã, antes do 
         alvorecer,
         subi numa colina para admirar o céu   
